@@ -1,0 +1,13 @@
+Package: trex
+Version: 1.0
+Architecture: all
+Maintainer: Torabek rgobzpe@gmail.com
+Priority: optional
+Section: utils
+Filename: pool/main/t/trex/trex_1.0_all.deb
+Size: 3720
+SHA256: e765b4e03ddf59a9d7f985f4501969343b6c2b0bef2a0b5f1c53e09e479c9dd3
+SHA1: 6f656633fabe061c22925d3360967ef054788c4c
+MD5sum: 26e6ac9840cc79c48491d3e9f0d5fba6
+Description: Trex - bu Siz bilan bir tarmoqda bo'lgan Qurilmalarning IP larini skanerlaydi shu bilan birgalikda ularning qaysi porti ochiqligini ham ko'rsatib beradi .
+

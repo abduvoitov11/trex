@@ -1,0 +1,20 @@
+Origin: Torabek
+Label: Trex Repository
+Suite: stable
+Codename: stable
+Date: Thu, 09 Jul 2026 10:19:18 UTC
+Architectures: amd64
+Components: main
+Description: Trex apt repository
+MD5Sum:
+ dd1016013de58438fada05f251205d2e 502 main/binary-amd64/Packages
+ 2cc214077d54c9c3530e1b7e83640fb7 383 main/binary-amd64/Packages.gz
+ 726455bd7f251fcf395ab53c63b1f5bd 124 main/binary-amd64/Release
+SHA1:
+ b5737dca42664d3f09f1811b8939334f07b8fa64 502 main/binary-amd64/Packages
+ f07b7e097b7202fb4caa957d3ea563b69c59fa59 383 main/binary-amd64/Packages.gz
+ 523253359d5f7bee5832b61ed23bac9c79d74da9 124 main/binary-amd64/Release
+SHA256:
+ b4367a5ec4ef2b838816b5b894fd25832a2f6e17ab60980eee2d1d5ca403d2bf 502 main/binary-amd64/Packages
+ ebef556e3985b2372c1b8e53fe91270b7520fdab8fe2eca33a30c290e8730bd4 383 main/binary-amd64/Packages.gz
+ c923b2d7852564b672f36e5e8c5f0b2ef3bfeaf193f48db222d1f17c4dc10963 124 main/binary-amd64/Release

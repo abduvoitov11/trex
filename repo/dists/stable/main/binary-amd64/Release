@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Torabek
+Label: Trex Repository
+Architecture: amd64
+Description: Trex apt repository
